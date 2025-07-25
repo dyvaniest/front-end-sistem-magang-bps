@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54fcbff4.css",
+    "main.js": "/static/js/main.3a5d7ad3.js",
+    "static/media/kantor-bps-3.jpg": "/static/media/kantor-bps-3.77f00a4828819e21555b.jpg",
+    "static/media/kantor-bps-1.jpg": "/static/media/kantor-bps-1.eb9fe0def3e66667fca2.jpg",
+    "static/media/logo-bps.png": "/static/media/logo-bps.b058438933f19abeb224.png",
+    "index.html": "/index.html",
+    "main.54fcbff4.css.map": "/static/css/main.54fcbff4.css.map",
+    "main.3a5d7ad3.js.map": "/static/js/main.3a5d7ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fcbff4.css",
+    "static/js/main.3a5d7ad3.js"
+  ]
+}
